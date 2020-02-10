@@ -1,0 +1,33 @@
+{
+  "name": "documentation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.9.1",
+    "@material-ui/icons": "^4.9.1",
+    "@sofdesk/core": "file:../packages/sofdeskCore/build",
+    "clsx": "^1.1.0",
+    "lodash": "^4.17.15",
+    "next": "9.1.6",
+    "prettier": "^1.19.1",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-redux": "^7.1.3",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/material-ui": "^0.21.7",
+    "@types/node": "^13.1.2",
+    "@types/react": "^16.9.17",
+    "@types/react-redux": "^7.1.7",
+    "typescript": "^3.7.4"
+  }
+}
