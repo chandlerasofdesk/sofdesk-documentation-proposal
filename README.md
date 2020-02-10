@@ -16,7 +16,7 @@ In order to run the docs you must `yarn` in sofdeskCore and then run `yarn build
 ## Issues / Future Considerations
 
 ### Authentication
-We could use githubs Auth0 as a first step so only people connected to the Sofdesk organization can access the docs. (I assume this would be possible?)
+We could use Auth0 (Github) as a first step so only people connected to the Sofdesk organization can access the docs. (I assume this would be possible?)
 
 ### Hosting Package
 Ideally it could be hosted as a private npm package as at the beginning it will likely be updated very frequently, so it would be annoying to keep updating the commit hash in each project on each update. I'm unsure on the costs that would be involved in this.
