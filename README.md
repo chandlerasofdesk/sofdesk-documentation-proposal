@@ -26,7 +26,7 @@ This repo is just a starting point and is very basic. Everything should probably
 
 Currently I am using https://nextjs.org/ so we can crawl the routes and have automated search with `docsearch` (see below). As the documentation will just be a static page, it makes sense from a maintenance point to just use a full featured framework so we don't have to do anything set up wise.
 
-I am quite new to building a package system, I just followed the set up from this blog: https://www.pluralsight.com/guides/react-typescript-module-create. From looking through Material UI source, it looks simple to replicate. 
+I am new to building a package system, I just followed the set up from this blog: https://www.pluralsight.com/guides/react-typescript-module-create. From looking through Material UI source, it looks simple to replicate. 
 
 ### Search
 https://community.algolia.com/docsearch/run-your-own.html
