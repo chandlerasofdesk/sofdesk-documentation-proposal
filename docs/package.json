@@ -12,7 +12,7 @@
     "@material-ui/icons": "^4.9.1",
     "@sofdesk/core": "file:../packages/sofdeskCore/build",
     "clsx": "^1.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "next": "9.1.6",
     "prettier": "^1.19.1",
     "react": "16.12.0",
